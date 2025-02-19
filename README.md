@@ -37,6 +37,20 @@
 | **OS**                | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" style="height: 25px;" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Tools & Platform**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![1Panel](https://img.shields.io/badge/1Panel-1572B6?style=for-the-badge&logo=1Panel&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-1572B6?style=for-the-badge&logo=AlibabaCloud&logoColor=white) ![CloudFlare](https://img.shields.io/badge/CloudFlare-1572B6?style=for-the-badge&logo=CloudFlare&logoColor=white)                                                                                                                                                                        |
 
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=QYG2297248353&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" 
+        alt="GitHub 统计" 
+        style="height: 180px; border: none; object-fit: cover;"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=QYG2297248353&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook" 
+        alt="最常用的编程语言" 
+        style="height: 180px; border: none; object-fit: cover;"
+      />
+  </div>
+</p>
 
 #### Contribution Graph
 
